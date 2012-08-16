@@ -4,7 +4,9 @@ Segunda Linea
 Tercera Linea
 Cuarta  Linea
 Quinta  Line a
+<<<<<<< HEAD
 Cambio realizado en la rama "master"
 Cambio realizado en la rama "rama_prueba"
 Mas cambios agregados en rama_prueba
 Cambios para probar rebase
+Desde otro proyecto
